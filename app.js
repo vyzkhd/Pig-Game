@@ -15,6 +15,7 @@ init();
 
 
 
+// dice roll
 
 document.querySelector('.btn-roll').addEventListener('click',function() {
   if(gamePlaying) {
